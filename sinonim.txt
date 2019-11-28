@@ -1,0 +1,116 @@
+game = ['permainan']
+audio = ['bunyi']
+video = ['rekaman']
+peers = ['hubungan']
+algoritma = ['formula']
+multi = ['banyak']
+cloud = ['awan']
+modern = ['maju']
+service = ['layanan']
+self = ['sendiri']
+resource = ['sumber']
+platform = ['program']
+pooling = ['pemilihan']
+tenant = ['tempat']
+shared = ['bagi']
+private = ['pribadi']
+server = ['penyedia']
+bottleneck = ['penghambat']
+control = ['kendali']
+smartphone = ['ponsel pintar']
+games = ['permainan']
+terkadang = ['jarang']
+hyperellipsoid = ['ellipsoid']
+modul = ['bahan ajar']
+jejaring = ['jaring']
+multi = ['banyak'}
+berubahubah = ['ubah']
+meister = ['master']
+reliabilitas = ['keandalan']
+lowlevel = ['level bawah']
+masingmasing = ['masing - masing']
+ekstraksi = ['pemurnian']
+selfservice = ['pelayanan sendiri']
+thresholding = ['ambang batas']
+hosting = ['penyedia web']
+fiturfitur = ['fitur-fitur']
+komputasi = ['perhitungan']
+skeletonisasi = ['perancangan']
+konektivitas = ['hubungan']
+criteria = ['kriteria']
+seringkali = ['sering']
+tiap = ['setiap']
+sehingga = ['jadi']
+kartu = ['kartu']
+medis =['kesehatan']
+pengklasteran = ['pengelompokan']
+pooling = ['jajak pendapat']
+smartphone = ['ponsel pintar']
+teknologi = ['alat']
+klaster = ['golongan']
+telepon = ['handphone']
+ratarata = ['rata-rata']
+missclassification = ['kesalahan klasifikasi']
+permasalahandengan = ['permasalahan dengan']
+
+
+bluetooth
+kmeans
+isoiec
+ke
+dariuji
+piksel
+itu
+peers
+mahalanobis
+erp
+belum
+upa
+of
+facebook
+sdk
+topsis
+vps
+cmeans
+algoritma
+its
+tiga
+9854
+turnbased
+25022
+mcdm
+simkuri
+metered
+16203
+datadata
+sisip
+skalabilitas
+biru
+berbedabeda
+kompetensi
+for
+pso
+mht
+platformasaservice
+inisial
+konstanta
+multiplatform
+mfcm
+fuzzyahp
+rpg
+beehivez
+orangorang
+tenantpenyewa
+troughput =
+maupun
+subskenario
+paas
+bas
+menempatakan
+seharihari
+kurikulum
+jcrc
+146
+ini
+ujicoba
+multitenancy
